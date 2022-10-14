@@ -32,7 +32,9 @@ npm run start .
 ```
 ### Build
 
-Run npm run build to build the project. The build artifacts will be stored in the build/ directory. Use the npm run build --prod flag for a production build.
+Run __npm run build__ to build the project. The build artifacts will be stored in the __build/__ directory. 
+
+Use the __npm run build --prod__ flag for a production build.
 ```
 npm run build
 npm run build --prod
