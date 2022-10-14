@@ -1,5 +1,5 @@
 # Cheese-N-Bites
-Website source code for Cheese n' Bites. 
+Source code for Cheese n' Bites project.
 
 If you intend to edit the source, please read the documentation to get the appropriate dependencies. 
 
