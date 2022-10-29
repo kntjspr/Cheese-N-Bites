@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "title": "Cheese N' Bites - Cheese Stick Contact: (+63)9500225063"
+    },
+
+    {
+        "id": 2,
+        "title": "",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 2,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 3,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 4,
+                "text": "",
+                "url": ""
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "title": "Solutions",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 2,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 3,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 4,
+                "text": "",
+                "url": ""
+            }
+        ]
+    },
+
+    {
+        "id": 4,
+        "title": "",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 2,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 3,
+                "text": "",
+                "url": ""
+            },
+            {
+                "id": 4,
+                "text": "",
+                "url": ""
+            }
+        ]
+    },
+
+    {
+        "id": 5,
+        "title": "Resources",
+        "quicklink": [
+            {}
+        ]
+    },
+
+    {
+        "id": 6,
+        "title": "Stay With Us.",
+        "subtitle": "2000+ Our clients are subscribe Around the World"
+    }
+]
